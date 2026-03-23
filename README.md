@@ -1,8 +1,8 @@
-# Task 5.6 — Responsive Design & Mobile Testing
+# Task 5.6 — Mobile Responsiveness
 
 ## Overview
 
-This task covers the responsive design implementation and mobile testing for the LiquidityAI frontend. The goal was to ensure the application works correctly across all screen sizes — from small phones to laptops — with no layout breaks, usable tables, a working hamburger menu, and accessible touch targets.
+This task covers the responsive design implementation and mobile testing for the LiquidityAI frontend. The goal was to ensure the application works correctly across all screen sizes — from small phones to laptops (375px, 768px, and 1024px) — with no layout breaks, usable tables, a working hamburger menu, and accessible touch targets.
 
 ---
 
